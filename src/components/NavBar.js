@@ -110,6 +110,14 @@ export default function Nav({ color }) {
                 <Button variant="ghost" onClick={scrollToContact}>
                   Contact
                 </Button>
+                <Button
+                  as="a"
+                  href="Dong_Li_Resume.pdf"
+                  target="_blank"
+                  variant="ghost"
+                >
+                  Resume
+                </Button>
               </>
             ) : (
               <></>

@@ -4,6 +4,9 @@ import {
   Stack,
   Text,
   useColorModeValue,
+  Flex,
+  Spacer,
+  Link,
 } from "@chakra-ui/react";
 
 export default function Footer() {
@@ -11,15 +14,25 @@ export default function Footer() {
     <Box
       bg={useColorModeValue("gray.50", "gray.900")}
       color={useColorModeValue("gray.700", "gray.200")}
+      width="100%"
     >
-      <Container
-        as={Stack}
-        maxW={"6xl"}
+      <Flex
+        maxW="6xl"
         py={4}
-        align="center"
+        mx="auto"
+        width="90%"
+        justifyContent="space-between"
+        alignItems="center"
       >
-        <Text>© 2023 Eldora Boo. All rights reserved</Text>
-      </Container>
+        <Text>© 2024 Dong Li. All rights reserved</Text>
+        <Spacer />
+        <Text>
+        Powered by{' '}
+        <Link href="https://github.com/eldoraboo" isExternal>
+          @eldoraboo
+        </Link>
+</Text>
+      </Flex>
     </Box>
   );
 }

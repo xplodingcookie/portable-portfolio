@@ -2,18 +2,18 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Hi, my name is Dong Li. 
+- I'm a Data Scientist.
+- I love everything maths and computer science :)
 
 ## About
-Write your "About" section here.
+Hi! My name is Dong, some people may also know me as Hugo. I enjoy all aspects of Data Science - Mathematics, Statistical Analysis, Machine Learning, and everything inbetween. I also love problem solving and facing life head on.
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+Bubble tea time?
+- LinkedIn: https://linkedin.com/in/dongchi-li
+- GitHub: https://github.com/xplodingcookie
+- Email: lidc2504@gmail.com
 
 ## Logo
-- EB
+- XPL
