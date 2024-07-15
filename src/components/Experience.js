@@ -40,6 +40,8 @@ export default function Experience({ color }) {
     setSelected(value);
   };
 
+  console.log(selected);
+
   return (
     <>
       <Container maxW={"3xl"} id="experience">
@@ -72,7 +74,7 @@ export default function Experience({ color }) {
           </Center>
           <Stack px={4} spacing={4}>
             {experience
-              .filter((exp) => exp.tags.includes(selected))
+              .filter((exp) => exp.tags.includes(selected.trim()))
               .map((exp) => (
                 <Fade bottom>
                   <Card key={exp.company} size="sm">

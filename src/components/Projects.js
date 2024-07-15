@@ -121,7 +121,7 @@ export default function Projects({ color }) {
                 if (selected === "All") {
                   return true;
                 } else {
-                  return other.tags.includes(selected);
+                  return other.tags.includes(selected.trim());
                 }
               })
               .map((other) => (
