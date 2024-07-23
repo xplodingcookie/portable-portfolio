@@ -3,7 +3,7 @@
 - ![logo512](../assets/phoebelogo.png)
 - Tags: Work
 - Badges:
-  - Internship [teal]
+  - Internship [blue]
 - List Items:
   - Worked with the development and implementation of AI assistants, Health Informatics and its applications in optimising private hospital billing. 
   - Utilised the best practices in software development and deployment, utilise cloud computing and networking and working with Node.js, MongoDB, and Machine Learning.
@@ -13,7 +13,7 @@
 - ![logo512](../assets/mathstarlogo.png)
 - Tags: Work
 - Badges:
-  - VCE Tutor [teal]
+  - VCE Tutor [blue]
 - List Items:
   - Provided personalised tutoring in both 1-on-1 and group sessions with completely tailored teaching methods to each individual student, in subjects including but not limited to Specialist Mathematics, Mathematical Methods, and Further Mathematics
   - Possess excellent problem-solving and on-the-spot critical thinking, as well as analytical skills that are needed to break down complex mathematical problems into manageable components and then formulate a solution that can effectively communicate ideas to students
@@ -25,7 +25,7 @@
  ![logo512](../assets/tutorlogo.png)
 - Tags: Work
 - Badges:
-  - Independent [teal]
+  - Independent [blue]
 - List Items:
   - Developed and implemented work plans tailored to individual student needs and adapting and changing the work plan based on the degree of difficulty for the student, specifically wocusing on building strength in areas of weakness and preparation for exam conditions
   - Demonstrated effective one-on-one communication skills as well as the ability to succinctly and efficiently illustrate ideas in a way that students could understand
@@ -36,7 +36,7 @@
 - ![logo512](../assets/UoMlogo.png)
 - Tags: Study
 - Badges:
-  - Bachelor [teal]
+  - Bachelor [blue]
 - List Items:
   - Second Class Honours A
   - Machine Learning, Linear Statistical Models, Probability, Design of Algorithms, Object Orientated Software Developement
@@ -46,7 +46,7 @@
 - ![logo512](../assets/UBClogo.png)
 - Tags: Study
 - Badges:
-  - Exchange [teal]
+  - Exchange [blue]
 - List Items:
   - Average: 81.8%
   - Statistical Inference, Linear Programming, Applied Linear Algebra
